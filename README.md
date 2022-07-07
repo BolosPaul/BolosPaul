@@ -4,6 +4,12 @@
 - 🌱 I’m currently learning the new Javascript Frameworks 
 - 📫 You can reach me on discord as qPaul7#2100 or just email me at bolospaul7@yahoo.com
 - ⚡ Fun fact Many owners of large tech companies loved video games as kids
+- 💬 My knowledge:
+- C# (Entity Framework
+- Domain Driven Design)
+- HTML
+- CSS(Tailwind, Bootstrap, Bulma)
+- Javascript(VueJS, ReactJS, AngularJS, Typescript)
 
 
 <!--
