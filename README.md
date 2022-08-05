@@ -7,7 +7,7 @@
 - 💬 My knowledge:
 - C# (Entity Framework Domain Driven Design "DDD")
 - HTML
-- CSS(Tailwind, Bootstrap, Bulma)
+- CSS(Tailwind, Bootstrap, Bulma, Material UI)
 - Javascript(VueJS, ReactJS, AngularJS, Typescript)
 
 
