@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
 
 <p align="center"> 
+   <a href="https://bolospaul.github.io/" align="center">Check my Portfolio</a>
+</p>
+<p align="center"> 
    <a href="https://discord.com/users/302365905420025858" target="_blank" rel="nofollow">
       <img src="https://lanyard-profile-readme.vercel.app/api/302365905420025858?dnd" alt="Discord Presence" align="center">
    </a>
