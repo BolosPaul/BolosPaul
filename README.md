@@ -81,4 +81,4 @@ Designing and shipping production systems at scale. 6+ years building high-throu
 
 ---
 
-<sub>bolospaul7@gmail.com &middot; Discord: @qPaul7</sub>
+<sub>bolospaul7@gmail.com &middot; Discord: @qPaul7 &middot; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bolos-paul-baa218257/)</sub>
