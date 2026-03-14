@@ -72,4 +72,13 @@ Designing and shipping production systems at scale. 6+ years building high-throu
 
 ---
 
+### GitHub
+
+<p>
+  <img height="195" src="./stats.svg" />
+  <img height="195" src="./languages.svg" />
+</p>
+
+---
+
 <sub>bolospaul7@gmail.com &middot; Discord: @qPaul7</sub>

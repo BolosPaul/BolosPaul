@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" fill="none">
+  <rect x="0.5" y="0.5" width="494" height="194" rx="4.5" fill="#0d1117" stroke="#30363d"/>
+  <text x="25" y="35" fill="#58a6ff" font-family="Segoe UI, Ubuntu, Helvetica Neue, Sans-Serif" font-weight="bold" font-size="18">Paul Bolos's GitHub Stats</text>
+
+  <g transform="translate(25, 55)">
+    <text fill="#8b949e" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="14" font-weight="600">Total Stars Earned:</text>
+    <text x="220" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="14" font-weight="bold">147</text>
+  </g>
+  <g transform="translate(25, 80)">
+    <text fill="#8b949e" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="14" font-weight="600">Total Commits (2026):</text>
+    <text x="220" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="14" font-weight="bold">1,284</text>
+  </g>
+  <g transform="translate(25, 105)">
+    <text fill="#8b949e" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="14" font-weight="600">Total PRs:</text>
+    <text x="220" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="14" font-weight="bold">203</text>
+  </g>
+  <g transform="translate(25, 130)">
+    <text fill="#8b949e" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="14" font-weight="600">Total Issues:</text>
+    <text x="220" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="14" font-weight="bold">54</text>
+  </g>
+  <g transform="translate(25, 155)">
+    <text fill="#8b949e" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="14" font-weight="600">Contributed to (last year):</text>
+    <text x="220" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="14" font-weight="bold">18</text>
+  </g>
+
+  <!-- Rank circle -->
+  <g transform="translate(390, 97)">
+    <circle cx="0" cy="0" r="40" fill="none" stroke="#30363d" stroke-width="6"/>
+    <circle cx="0" cy="0" r="40" fill="none" stroke="#58a6ff" stroke-width="6" stroke-dasharray="210" stroke-dashoffset="42" transform="rotate(-90)" stroke-linecap="round"/>
+    <text x="0" y="8" text-anchor="middle" fill="#58a6ff" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="28" font-weight="bold">A+</text>
+  </g>
+</svg>
