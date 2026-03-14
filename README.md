@@ -60,12 +60,15 @@ Designing and shipping production systems at scale. 6+ years building high-throu
 
 ---
 
-### GitHub
+### Highlights
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bolospaul&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolospaul&theme=github_dark&hide_border=true&layout=compact&langs_count=8" />
-</p>
+- Built and maintained a real-time event processing pipeline serving **2M+ events/day** (Go, Kafka, PostgreSQL)
+- Led migration of monolithic Node.js API to microservices architecture — reduced p95 latency by 60%
+- Designed multi-region deployment strategy with zero-downtime releases across 3 cloud providers
+- Open-source contributor to several backend tooling and observability projects
+- Speaker at local meetups on distributed systems and DevOps best practices
+
+> Most of my work lives in private enterprise repositories.
 
 ---
 
